@@ -8,7 +8,7 @@ metadata:
 spec:
   project: default
   source:
-    repoURL: https://gitlab.com/tomkukral/training-model.git
+    repoURL: https://github.com/luckhass/training-model.git
     targetRevision: HEAD
     path: prometheus
   destination:
