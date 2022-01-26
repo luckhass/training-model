@@ -277,6 +277,8 @@ scrape_configs:
   - targets:
     - https://www.datascript.cz
     - https://www.kubernetes.io
+    - https://www.alajdslkfkafds.io
+    - https://www.nebezi.cz
 
   relabel_configs:
   - source_labels: [__address__]
